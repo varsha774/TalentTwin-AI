@@ -173,21 +173,6 @@ Frontend runs on:
 http://localhost:5173
 ```
 
----
-
-# 📸 Screenshots
-
-(Add screenshots of your application here)
-
-Example:
-
-- Home Page
-- Resume Upload Interface
-- Resume Analysis Dashboard
-- Career Recommendation Page
-
----
-
 # 🚀 Future Enhancements
 
 - 🤖 LLM-powered resume feedback
@@ -197,11 +182,10 @@ Example:
 - 🔗 LinkedIn profile analysis
 - 📊 Resume comparison with job descriptions
 
----
 
 # 👩‍💻 Developer
 
-**Varsha S**
+Varsha S
 
 B.Tech Artificial Intelligence & Data Science
 
